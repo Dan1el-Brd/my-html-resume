@@ -1,0 +1,23 @@
+
+html {
+    background: white;
+    font-family: "Poppins", sans-serif;
+}
+
+#position {
+    color: rgb(35, 109, 179);
+}
+
+#my-photo {
+    float: right;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin: 100px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    font-size: small;
+}

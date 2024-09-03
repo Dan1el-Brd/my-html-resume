@@ -1,0 +1,18 @@
+html {
+    background: white;
+    font-family: "Poppins", sans-serif;
+    /* display: flex;
+    flex-direction: column;
+    min-height: 95vh; */
+}
+
+#my-photo {
+    float: right;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.resume-header {
+    display: inline;
+}
