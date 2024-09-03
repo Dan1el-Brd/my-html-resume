@@ -1,0 +1,17 @@
+html {
+    html {
+        background: rgb(240, 239, 234);
+        font-family: "Poppins", sans-serif;
+    }
+}
+
+#my-photo {
+    float: right;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.resume-header {
+    display: inline;
+}
